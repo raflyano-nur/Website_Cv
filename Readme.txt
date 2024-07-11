@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Nama website : Cv
+URL: https://raflyano-nur.github.io/Website_Cv/
+Author: Raflyano Ar'rasya Nur Syamsi
