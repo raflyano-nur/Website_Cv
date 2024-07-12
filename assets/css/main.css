@@ -913,6 +913,36 @@ section,
 /*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
+    .center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .services .service-item:hover .icons {
+  background: var(--surface-color);
+}
+.services .service-item .icons {
+  /* background: var(--accent-color); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  transition: 0.5s;
+  /* border: 1px solid var(--accent-color); */
+  margin-right: 20px;
+}
+.services .service-item .icons i {
+  color: var(--contrast-color);
+  font-size: 24px;
+  line-height: 0;
+}
+.services .service-item:hover .icons i {
+  color: var(--accent-color);
+}
+
 .services .service-item {
   position: relative;
 }
